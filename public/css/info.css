@@ -1,0 +1,27 @@
+.info{
+	padding: 50px 60px 60px 60px;
+	background-color: white;
+	border: #ff5200 thin solid; 
+	border-radius: 5%;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 250px;
+}
+.content{
+	background-color: rgba(0,0,0,0)!important;
+	padding-top: 0!important;
+	height: 720px!important;
+}
+.info h1{
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.info .btn{
+	margin-top: 25px;
+	width: 200px;
+}
+.info span{
+	float: right;
+}
